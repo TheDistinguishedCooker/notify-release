@@ -1,0 +1,251 @@
+11:49:07.496 scanner opened (auto capture on, debug folder /storage/emulated/0/Documents/Notify scanner debug/20261024-114907)
+11:49:07.552 cameras: Rear Camera: 0 (1), Front Camera: 1 (2); using Rear Camera: 0
+11:49:07.558 formats: 3840x2160 15-60 fps (pixel format 13); 4000x2000 15-60 fps (pixel format 13); 3264x2448 15-60 fps (pixel format 13); 3264x1836 15-60 fps (pixel format 13); 2560x1920 15-60 fps (pixel format 13); 2688x1512 15-60 fps (pixel format 13); 1920x1920 15-60 fps (pixel format 13); 2560x1280 15-60 fps (pixel format 13); 2048x1536 15-60 fps (pixel format 13); 1920x1440 15-60 fps (pixel format 13); 1920x1080 15-60 fps (pixel format 13); 1600x1200 15-60 fps (pixel format 13); 1920x960 15-60 fps (pixel format 13); 1792x1008 15-60 fps (pixel format 13); 1440x1080 15-60 fps (pixel format 13); 1344x1008 15-60 fps (pixel format 13); 1280x960 15-60 fps (pixel format 13); 1080x1080 15-60 fps (pixel format 13); 1280x720 15-60 fps (pixel format 13); 1024x768 15-60 fps (pixel format 13); 1024x576 15-60 fps (pixel format 13); 800x600 15-60 fps (pixel format 13); 720x480 15-60 fps (pixel format 13); 640x480 15-60 fps (pixel format 13); 640x360 15-60 fps (pixel format 13); 352x288 15-60 fps (pixel format 13); 320x240 15-60 fps (pixel format 13); 176x144 15-60 fps (pixel format 13)
+11:49:07.558 chosen format: 2560x1920 15-60 fps (pixel format 13)
+11:49:07.558 focus: auto
+11:49:07.947 camera active
+11:49:08.094 first frame: 2560x1920, pixel format 18, rotation 0, mirrored 0 → image 1920x2560 (108.4 ms)
+11:49:08.860 → holding: 40 candidate(s) in 60.0 ms
+    28 lines, 153 pairs, 40 quads
+    lines score 0.64 (edges 0.61, contrast 0.22, paper 0.67, area 0.18) (0.458 0.300, 1.006 0.324, 0.748 0.817, 0.517 0.713)
+    lines score 0.63 (edges 0.56, contrast 0.22, paper 0.68, area 0.18) (0.453 0.296, 1.003 0.325, 0.757 0.795, 0.512 0.714)
+    lines score 0.62 (edges 0.57, contrast 0.21, paper 0.68, area 0.18) (0.438 0.295, 1.003 0.325, 0.744 0.819, 0.578 0.745)
+    lines score 0.61 (edges 0.54, contrast 0.20, paper 0.69, area 0.17) (0.438 0.295, 1.003 0.325, 0.769 0.772, 0.585 0.770)
+    lines score 0.60 (edges 0.66, contrast 0.11, paper 0.70, area 0.09) (0.682 0.308, 1.003 0.325, 0.769 0.772, 0.688 0.771)
+11:49:09.668 → searching: 40 candidate(s) in 60.9 ms
+    28 lines, 135 pairs, 40 quads
+    lines score 0.55 (edges 0.62, contrast 0.15, paper 0.49, area 0.07) (0.040 0.570, 0.831 0.610, 0.847 0.660, 0.128 0.699)
+    lines (mixed light) score 0.51 (edges 0.73, contrast 0.02, paper 0.50, area 0.12) (0.090 0.575, 0.830 0.608, 0.852 0.760, 0.178 0.761)
+    lines (mixed light) score 0.50 (edges 0.68, contrast 0.08, paper 0.51, area 0.19) (0.090 0.575, 0.937 0.612, 0.900 0.889, 0.197 0.800)
+    lines (mixed light) score 0.50 (edges 0.66, contrast 0.12, paper 0.52, area 0.14) (-0.012 0.482, 0.815 0.502, 0.837 0.659, 0.136 0.699)
+    lines (mixed light) score 0.50 (edges 0.66, contrast 0.07, paper 0.52, area 0.21) (0.090 0.575, 0.937 0.612, 0.891 0.959, 0.184 0.774)
+11:49:09.778 → holding: 36 candidate(s) in 72.8 ms
+    28 lines, 140 pairs, 40 quads
+    lines score 0.62 (edges 0.65, contrast 0.18, paper 0.65, area 0.13) (0.285 0.263, 0.606 0.268, 0.497 0.789, 0.312 0.794)
+    lines score 0.60 (edges 0.68, contrast 0.10, paper 0.62, area 0.11) (0.286 0.357, 0.597 0.334, 0.502 0.792, 0.315 0.791)
+    lines score 0.60 (edges 0.80, contrast -0.15, paper 0.45, area 0.08) (0.275 0.036, 0.881 0.030, 0.883 0.066, 0.220 0.251)
+    lines score 0.53 (edges 0.68, contrast -0.05, paper 0.49, area 0.06) (0.292 0.451, 0.396 0.450, 0.595 0.773, 0.314 0.767)
+    lines score 0.52 (edges 0.71, contrast -0.07, paper 0.43, area 0.12) (0.275 0.036, 0.881 0.030, 0.897 0.248, 0.231 0.207)
+11:49:10.082 → searching: 39 candidate(s) in 84.6 ms
+    28 lines, 169 pairs, 40 quads
+    lines score 0.56 (edges 0.51, contrast 0.18, paper 0.54, area 0.26) (0.118 0.021, 0.544 0.010, 0.488 0.896, 0.313 0.888)
+    lines score 0.53 (edges 0.59, contrast 0.10, paper 0.49, area 0.18) (0.206 0.401, 0.876 0.315, 0.885 0.608, 0.267 0.674)
+    lines score 0.53 (edges 0.58, contrast 0.06, paper 0.46, area 0.24) (0.052 0.421, 0.876 0.315, 0.885 0.608, 0.021 0.700)
+    lines score 0.52 (edges 0.62, contrast 0.02, paper 0.47, area 0.11) (0.517 0.361, 0.876 0.315, 0.885 0.608, 0.498 0.649)
+    lines score 0.52 (edges 0.61, contrast 0.03, paper 0.50, area 0.20) (0.528 0.202, 0.873 0.207, 0.891 0.827, 0.498 0.637)
+11:49:10.587 → holding: 40 candidate(s) in 92.3 ms
+    28 lines, 148 pairs, 40 quads
+    lines score 0.60 (edges 0.70, contrast 0.07, paper 0.53, area 0.10) (0.457 0.494, 0.771 0.471, 0.787 0.813, 0.539 0.830)
+    lines score 0.58 (edges 0.55, contrast 0.14, paper 0.57, area 0.19) (0.387 0.192, 0.762 0.206, 0.787 0.814, 0.540 0.826)
+    lines score 0.56 (edges 0.48, contrast 0.14, paper 0.54, area 0.28) (0.379 0.160, 0.961 0.165, 0.828 0.854, 0.516 0.726)
+    lines (mixed light) score 0.55 (edges 0.77, contrast 0.06, paper 0.54, area 0.09) (0.496 0.491, 0.773 0.471, 0.787 0.814, 0.552 0.825)
+    lines score 0.55 (edges 0.51, contrast 0.07, paper 0.49, area 0.33) (0.099 0.181, 0.762 0.206, 0.788 0.838, 0.126 0.566)
+11:49:10.990 → searching: 39 candidate(s) in 74.5 ms
+    28 lines, 149 pairs, 40 quads
+    lines score 0.54 (edges 0.71, contrast 0.13, paper 0.47, area 0.06) (0.227 0.113, 0.342 0.135, 0.474 0.877, 0.438 0.888)
+    lines score 0.52 (edges 0.60, contrast 0.21, paper 0.57, area 0.05) (0.250 0.224, 0.368 0.244, 0.466 0.884, 0.433 0.889)
+    lines score 0.51 (edges 0.60, contrast 0.19, paper 0.55, area 0.05) (0.246 0.208, 0.368 0.240, 0.466 0.884, 0.433 0.889)
+    lines score 0.50 (edges 0.69, contrast 0.07, paper 0.43, area 0.07) (0.198 0.036, 0.341 0.068, 0.466 0.884, 0.433 0.889)
+    lines score 0.47 (edges 0.59, contrast -0.18, paper 0.41, area 0.07) (0.125 0.130, 0.335 0.077, 0.614 0.519, 0.514 0.511)
+11:49:11.016 saved searching-1.jpg
+11:49:11.016 stats: camera 59.7 fps, analyzed 8.3 fps, convert 40.9 ms, detect 75.3 ms
+11:49:11.284 → holding: 17 candidate(s) in 101.2 ms
+    28 lines, 140 pairs, 40 quads
+    lines score 0.75 (edges 0.82, contrast 0.15, paper 0.51, area 0.57) (-0.025 0.251, 0.748 0.154, 0.854 0.917, 0.140 0.998)
+    lines score 0.67 (edges 0.73, contrast 0.13, paper 0.51, area 0.58) (-0.023 0.214, 0.743 0.158, 0.860 0.915, 0.136 0.997)
+    lines score 0.62 (edges 0.68, contrast 0.09, paper 0.51, area 0.55) (-0.015 0.251, 0.709 0.162, 0.848 0.916, 0.136 0.997)
+    lines score 0.62 (edges 0.72, contrast 0.16, paper 0.55, area 0.33) (0.459 0.193, 0.743 0.158, 0.861 0.922, 0.280 0.972)
+    lines (mixed light) score 0.60 (edges 0.79, contrast 0.14, paper 0.55, area 0.29) (0.428 0.192, 0.743 0.159, 0.860 0.915, 0.431 0.964)
+11:49:12.303 holding: 40 candidate(s) in 71.7 ms
+    28 lines, 158 pairs, 40 quads
+    lines score 0.67 (edges 0.74, contrast 0.11, paper 0.59, area 0.54) (0.066 0.048, 0.848 0.036, 0.870 0.753, 0.219 0.817)
+    lines score 0.66 (edges 0.73, contrast 0.14, paper 0.59, area 0.51) (0.086 0.102, 0.842 0.033, 0.877 0.754, 0.210 0.810)
+    lines score 0.66 (edges 0.72, contrast 0.11, paper 0.59, area 0.53) (0.077 0.053, 0.842 0.035, 0.877 0.740, 0.212 0.824)
+    lines score 0.66 (edges 0.70, contrast 0.11, paper 0.59, area 0.53) (0.077 0.053, 0.862 0.035, 0.864 0.755, 0.210 0.810)
+    lines score 0.64 (edges 0.68, contrast 0.14, paper 0.59, area 0.51) (0.086 0.102, 0.842 0.033, 0.877 0.740, 0.212 0.824)
+11:49:13.326 holding: 38 candidate(s) in 76.9 ms
+    28 lines, 147 pairs, 40 quads
+    lines (mixed light) score 0.67 (edges 0.80, contrast 0.11, paper 0.62, area 0.59) (0.005 0.051, 0.791 0.073, 0.773 0.806, 0.025 0.858)
+    lines (mixed light) score 0.64 (edges 0.78, contrast 0.11, paper 0.62, area 0.58) (-0.001 0.092, 0.786 0.045, 0.779 0.799, 0.033 0.859)
+    lines score 0.63 (edges 0.66, contrast 0.14, paper 0.71, area 0.11) (0.629 0.080, 0.786 0.078, 0.777 0.997, 0.693 0.974)
+    lines (mixed light) score 0.63 (edges 0.77, contrast 0.01, paper 0.61, area 0.48) (-0.001 0.088, 0.629 0.080, 0.681 0.807, 0.033 0.859)
+    lines (mixed light) score 0.62 (edges 0.76, contrast 0.11, paper 0.71, area 0.11) (0.628 0.054, 0.786 0.045, 0.777 0.970, 0.691 0.944)
+11:49:14.043 stats: camera 60.1 fps, analyzed 7.6 fps, convert 43.2 ms, detect 83.7 ms
+11:49:14.447 holding: 40 candidate(s) in 82.9 ms
+    28 lines, 142 pairs, 40 quads
+    lines (mixed light) score 0.67 (edges 0.82, contrast 0.08, paper 0.63, area 0.57) (0.048 0.090, 0.816 0.111, 0.789 0.839, 0.043 0.883)
+    lines (mixed light) score 0.65 (edges 0.82, contrast 0.08, paper 0.63, area 0.58) (0.021 0.090, 0.810 0.110, 0.796 0.843, 0.055 0.878)
+    lines (mixed light) score 0.63 (edges 0.75, contrast 0.07, paper 0.63, area 0.58) (0.041 0.091, 0.831 0.111, 0.783 0.843, 0.055 0.878)
+    lines (mixed light) score 0.62 (edges 0.73, contrast 0.07, paper 0.63, area 0.58) (0.021 0.090, 0.831 0.111, 0.783 0.843, 0.055 0.878)
+    lines (mixed light) score 0.59 (edges 0.81, contrast -0.02, paper 0.62, area 0.55) (0.041 0.091, 0.780 0.110, 0.755 0.845, 0.055 0.878)
+11:49:15.480 holding: 24 candidate(s) in 73.6 ms
+    28 lines, 141 pairs, 40 quads
+    lines score 0.73 (edges 0.79, contrast 0.24, paper 0.77, area 0.09) (0.659 0.142, 0.812 0.139, 0.796 0.857, 0.704 0.870)
+    lines score 0.71 (edges 0.74, contrast 0.24, paper 0.76, area 0.09) (0.651 0.147, 0.827 0.146, 0.790 0.861, 0.713 0.864)
+    lines score 0.66 (edges 0.64, contrast 0.22, paper 0.75, area 0.09) (0.651 0.147, 0.807 0.146, 0.801 0.955, 0.718 0.927)
+    lines score 0.66 (edges 0.72, contrast 0.16, paper 0.76, area 0.09) (0.647 0.097, 0.807 0.164, 0.802 0.860, 0.713 0.864)
+    lines score 0.64 (edges 0.68, contrast 0.17, paper 0.75, area 0.09) (0.647 0.097, 0.825 0.171, 0.790 0.861, 0.713 0.864)
+11:49:16.557 holding: 24 candidate(s) in 79.3 ms
+    28 lines, 131 pairs, 40 quads
+    lines score 0.71 (edges 0.80, contrast 0.15, paper 0.74, area 0.10) (0.664 0.035, 0.822 0.091, 0.813 0.850, 0.718 0.862)
+    lines score 0.70 (edges 0.78, contrast 0.16, paper 0.74, area 0.10) (0.654 0.036, 0.813 0.086, 0.823 0.845, 0.727 0.851)
+    lines score 0.67 (edges 0.77, contrast 0.16, paper 0.73, area 0.10) (0.671 0.041, 0.839 0.094, 0.805 0.856, 0.707 0.859)
+    lines score 0.66 (edges 0.69, contrast 0.18, paper 0.77, area 0.09) (0.676 0.143, 0.814 0.135, 0.823 0.855, 0.707 0.859)
+    lines score 0.64 (edges 0.73, contrast 0.14, paper 0.74, area 0.08) (0.664 0.144, 0.781 0.137, 0.832 0.845, 0.727 0.851)
+11:49:17.155 stats: camera 53.3 fps, analyzed 7.7 fps, convert 43.9 ms, detect 80.1 ms
+11:49:17.663 holding: 26 candidate(s) in 77.3 ms
+    28 lines, 139 pairs, 40 quads
+    lines (mixed light) score 0.57 (edges 0.69, contrast 0.08, paper 0.63, area 0.54) (0.081 0.122, 0.819 0.152, 0.816 0.851, 0.086 0.895)
+    lines score 0.56 (edges 0.76, contrast -0.14, paper 0.35, area 0.10) (0.813 0.151, 0.994 0.156, 0.978 0.762, 0.822 0.708)
+    lines (mixed light) score 0.55 (edges 0.63, contrast 0.12, paper 0.63, area 0.51) (0.078 0.122, 0.813 0.152, 0.824 0.845, 0.163 0.891)
+    lines (mixed light) score 0.55 (edges 0.67, contrast 0.07, paper 0.63, area 0.54) (0.074 0.121, 0.833 0.153, 0.810 0.846, 0.098 0.895)
+    lines (mixed light) score 0.55 (edges 0.61, contrast 0.12, paper 0.63, area 0.51) (0.078 0.122, 0.833 0.153, 0.810 0.846, 0.163 0.891)
+11:49:18.705 holding: 25 candidate(s) in 93.2 ms
+    28 lines, 131 pairs, 40 quads
+    lines (mixed light) score 0.68 (edges 0.85, contrast 0.07, paper 0.63, area 0.54) (0.081 0.128, 0.820 0.147, 0.824 0.854, 0.089 0.891)
+    lines (mixed light) score 0.68 (edges 0.83, contrast 0.07, paper 0.63, area 0.54) (0.069 0.133, 0.815 0.143, 0.830 0.846, 0.100 0.896)
+    lines (mixed light) score 0.64 (edges 0.80, contrast 0.07, paper 0.63, area 0.54) (0.070 0.167, 0.815 0.120, 0.830 0.846, 0.100 0.896)
+    lines (mixed light) score 0.64 (edges 0.80, contrast 0.07, paper 0.63, area 0.54) (0.070 0.167, 0.815 0.120, 0.830 0.856, 0.099 0.881)
+    lines (mixed light) score 0.58 (edges 0.73, contrast 0.00, paper 0.62, area 0.51) (0.082 0.133, 0.814 0.143, 0.775 0.850, 0.106 0.895)
+11:49:19.827 holding: 33 candidate(s) in 81.8 ms
+    28 lines, 143 pairs, 40 quads
+    lines score 0.64 (edges 0.63, contrast 0.12, paper 0.63, area 0.52) (0.082 0.125, 0.827 0.147, 0.823 0.855, 0.165 0.891)
+    lines (mixed light) score 0.55 (edges 0.65, contrast 0.08, paper 0.63, area 0.54) (0.079 0.120, 0.822 0.153, 0.831 0.848, 0.100 0.897)
+    lines (mixed light) score 0.54 (edges 0.68, contrast 0.02, paper 0.62, area 0.49) (0.083 0.132, 0.800 0.145, 0.783 0.851, 0.166 0.893)
+    lines (mixed light) score 0.54 (edges 0.66, contrast 0.08, paper 0.63, area 0.53) (0.080 0.162, 0.822 0.143, 0.831 0.848, 0.100 0.897)
+    lines (mixed light) score 0.52 (edges 0.64, contrast 0.12, paper 0.66, area 0.25) (0.546 0.150, 0.822 0.143, 0.831 0.848, 0.415 0.876)
+11:49:20.253 stats: camera 37.1 fps, analyzed 8.1 fps, convert 42.9 ms, detect 76.7 ms
+11:49:20.908 holding: 28 candidate(s) in 109.7 ms
+    28 lines, 142 pairs, 40 quads
+    lines (mixed light) score 0.65 (edges 0.82, contrast 0.07, paper 0.63, area 0.56) (0.036 0.097, 0.833 0.120, 0.825 0.837, 0.122 0.873)
+    lines score 0.65 (edges 0.82, contrast 0.15, paper 0.79, area 0.05) (0.715 0.032, 0.830 0.068, 0.829 0.830, 0.807 0.831)
+    lines (mixed light) score 0.63 (edges 0.77, contrast 0.07, paper 0.63, area 0.55) (0.077 0.141, 0.830 0.092, 0.829 0.830, 0.102 0.878)
+    lines (mixed light) score 0.62 (edges 0.77, contrast 0.07, paper 0.63, area 0.55) (0.076 0.103, 0.830 0.117, 0.829 0.840, 0.101 0.865)
+    lines (mixed light) score 0.62 (edges 0.76, contrast 0.07, paper 0.63, area 0.55) (0.043 0.143, 0.830 0.092, 0.829 0.840, 0.123 0.865)
+11:49:21.912 holding: 33 candidate(s) in 78.8 ms
+    28 lines, 142 pairs, 40 quads
+    lines (mixed light) score 0.58 (edges 0.70, contrast 0.08, paper 0.63, area 0.56) (0.082 0.085, 0.834 0.116, 0.822 0.830, 0.079 0.864)
+    lines (mixed light) score 0.58 (edges 0.70, contrast 0.07, paper 0.63, area 0.56) (0.079 0.085, 0.829 0.115, 0.831 0.820, 0.084 0.871)
+    lines (mixed light) score 0.55 (edges 0.70, contrast 0.09, paper 0.63, area 0.54) (0.079 0.129, 0.828 0.105, 0.831 0.831, 0.084 0.856)
+    lines (mixed light) score 0.55 (edges 0.69, contrast 0.08, paper 0.63, area 0.54) (0.079 0.129, 0.828 0.105, 0.831 0.820, 0.084 0.871)
+    lines score 0.53 (edges 0.60, contrast -0.07, paper 0.60, area 0.51) (0.079 0.085, 0.701 0.110, 0.693 1.004, 0.084 0.838)
+11:49:23.035 holding: 25 candidate(s) in 85.5 ms
+    28 lines, 148 pairs, 40 quads
+    lines (mixed light) score 0.59 (edges 0.71, contrast 0.08, paper 0.64, area 0.55) (0.059 0.095, 0.825 0.125, 0.820 0.838, 0.110 0.872)
+    lines (mixed light) score 0.58 (edges 0.68, contrast 0.07, paper 0.63, area 0.55) (0.068 0.108, 0.819 0.113, 0.828 0.828, 0.095 0.879)
+    lines (mixed light) score 0.58 (edges 0.68, contrast 0.07, paper 0.63, area 0.55) (0.068 0.108, 0.819 0.113, 0.828 0.839, 0.094 0.865)
+    lines (mixed light) score 0.56 (edges 0.71, contrast 0.01, paper 0.63, area 0.53) (0.055 0.095, 0.814 0.124, 0.774 0.831, 0.112 0.878)
+    lines (mixed light) score 0.55 (edges 0.66, contrast 0.09, paper 0.64, area 0.54) (0.058 0.139, 0.819 0.113, 0.828 0.839, 0.111 0.864)
+11:49:23.256 stats: camera 41.6 fps, analyzed 7.7 fps, convert 43.3 ms, detect 82.2 ms
+11:49:24.130 → searching: 40 candidate(s) in 92.8 ms
+    28 lines, 139 pairs, 40 quads
+    lines (mixed light) score 0.57 (edges 0.70, contrast 0.07, paper 0.63, area 0.55) (0.078 0.104, 0.819 0.134, 0.818 0.834, 0.075 0.884)
+    lines (mixed light) score 0.56 (edges 0.68, contrast 0.16, paper 0.78, area 0.04) (0.709 0.467, 0.822 0.578, 0.809 0.930, 0.713 0.898)
+    lines score 0.56 (edges 0.63, contrast -0.04, paper 0.60, area 0.61) (0.068 0.104, 0.808 0.134, 0.761 1.008, 0.082 0.935)
+    lines (mixed light) score 0.55 (edges 0.71, contrast -0.05, paper 0.62, area 0.51) (0.068 0.104, 0.758 0.132, 0.780 0.830, 0.082 0.884)
+    lines (mixed light) score 0.54 (edges 0.66, contrast 0.08, paper 0.63, area 0.54) (0.069 0.147, 0.814 0.124, 0.828 0.826, 0.082 0.884)
+11:49:24.153 saved searching-2.jpg
+11:49:24.296 → holding: 26 candidate(s) in 94.0 ms
+    28 lines, 130 pairs, 40 quads
+    lines (mixed light) score 0.66 (edges 0.79, contrast 0.08, paper 0.63, area 0.54) (0.069 0.104, 0.819 0.130, 0.819 0.837, 0.109 0.878)
+    lines (mixed light) score 0.64 (edges 0.82, contrast 0.00, paper 0.63, area 0.52) (0.066 0.107, 0.796 0.126, 0.784 0.842, 0.110 0.867)
+    lines (mixed light) score 0.63 (edges 0.74, contrast 0.12, paper 0.64, area 0.52) (0.091 0.107, 0.813 0.126, 0.828 0.830, 0.135 0.877)
+    lines (mixed light) score 0.61 (edges 0.76, contrast 0.00, paper 0.63, area 0.52) (0.066 0.107, 0.809 0.126, 0.769 0.834, 0.110 0.879)
+    lines (mixed light) score 0.61 (edges 0.77, contrast 0.03, paper 0.63, area 0.50) (0.091 0.107, 0.796 0.126, 0.785 0.833, 0.135 0.877)
+11:49:25.480 holding: 40 candidate(s) in 145.2 ms
+    28 lines, 149 pairs, 40 quads
+    lines (mixed light) score 0.66 (edges 0.79, contrast 0.07, paper 0.62, area 0.53) (0.118 0.113, 0.831 0.153, 0.807 0.848, 0.061 0.882)
+    lines (mixed light) score 0.58 (edges 0.73, contrast 0.06, paper 0.61, area 0.55) (0.038 0.109, 0.825 0.148, 0.817 0.842, 0.110 0.880)
+    lines (mixed light) score 0.57 (edges 0.71, contrast 0.11, paper 0.63, area 0.50) (0.108 0.113, 0.825 0.148, 0.817 0.842, 0.156 0.878)
+    lines (mixed light) score 0.57 (edges 0.71, contrast 0.06, paper 0.62, area 0.54) (0.112 0.113, 0.848 0.149, 0.801 0.843, 0.066 0.883)
+    lines (mixed light) score 0.55 (edges 0.71, contrast 0.07, paper 0.62, area 0.52) (0.110 0.150, 0.825 0.152, 0.817 0.842, 0.066 0.883)
+11:49:26.359 stats: camera 47.1 fps, analyzed 6.4 fps, convert 49.4 ms, detect 99.3 ms
+11:49:26.580 holding: 26 candidate(s) in 131.5 ms
+    28 lines, 138 pairs, 40 quads
+    lines score 0.63 (edges 0.79, contrast 0.09, paper 0.69, area 0.06) (0.374 0.035, 0.890 0.208, 0.892 0.220, 0.377 0.241)
+    lines score 0.61 (edges 0.70, contrast 0.08, paper 0.69, area 0.06) (0.374 0.035, 0.890 0.208, 0.895 0.235, 0.377 0.234)
+    lines score 0.60 (edges 0.69, contrast 0.09, paper 0.69, area 0.09) (0.257 -0.004, 0.890 0.208, 0.894 0.229, 0.281 0.271)
+    lines score 0.60 (edges 0.74, contrast 0.04, paper 0.68, area 0.05) (0.374 0.035, 0.703 0.146, 0.706 0.234, 0.377 0.234)
+    lines score 0.60 (edges 0.70, contrast 0.05, paper 0.66, area 0.07) (0.293 0.008, 0.890 0.208, 0.895 0.235, 0.317 0.233)
+11:49:26.985 → searching: 34 candidate(s) in 105.3 ms
+    28 lines, 134 pairs, 40 quads
+    lines score 0.51 (edges 0.52, contrast 0.17, paper 0.66, area 0.16) (0.791 0.189, 0.956 0.182, 0.972 1.017, 0.724 0.936)
+    lines score 0.49 (edges 0.46, contrast 0.17, paper 0.65, area 0.17) (0.791 0.195, 0.975 0.187, 0.963 1.014, 0.723 0.936)
+    lines score 0.49 (edges 0.50, contrast 0.05, paper 0.62, area 0.36) (0.358 -0.016, 0.796 0.145, 0.727 0.890, 0.316 0.920)
+    lines (mixed light) score 0.48 (edges 0.57, contrast 0.06, paper 0.61, area 0.59) (0.250 -0.026, 0.960 0.234, 0.974 0.872, 0.198 0.929)
+    lines (mixed light) score 0.47 (edges 0.50, contrast 0.10, paper 0.62, area 0.49) (0.229 0.208, 0.958 0.175, 0.974 0.872, 0.323 0.920)
+11:49:27.162 → holding: 24 candidate(s) in 110.3 ms
+    28 lines, 148 pairs, 40 quads
+    lines (mixed light) score 0.61 (edges 0.75, contrast 0.08, paper 0.63, area 0.52) (0.216 0.143, 0.932 0.146, 0.926 0.855, 0.200 0.884)
+    lines (mixed light) score 0.59 (edges 0.72, contrast 0.08, paper 0.64, area 0.51) (0.204 0.143, 0.927 0.146, 0.932 0.843, 0.235 0.888)
+    lines (mixed light) score 0.59 (edges 0.72, contrast 0.08, paper 0.63, area 0.52) (0.225 0.143, 0.927 0.146, 0.932 0.843, 0.198 0.890)
+    lines score 0.59 (edges 0.66, contrast 0.09, paper 0.66, area 0.32) (0.508 0.011, 0.927 0.175, 0.932 0.857, 0.525 0.867)
+    lines score 0.59 (edges 0.66, contrast 0.13, paper 0.67, area 0.26) (0.625 0.166, 0.927 0.153, 0.932 0.857, 0.499 0.868)
+11:49:28.200 holding: 23 candidate(s) in 64.3 ms
+    28 lines, 144 pairs, 40 quads
+    lines (mixed light) score 0.63 (edges 0.73, contrast 0.08, paper 0.64, area 0.58) (0.071 0.104, 0.836 0.092, 0.832 0.840, 0.075 0.890)
+    lines (mixed light) score 0.62 (edges 0.71, contrast 0.08, paper 0.64, area 0.58) (0.058 0.105, 0.829 0.091, 0.842 0.841, 0.095 0.881)
+    lines (mixed light) score 0.57 (edges 0.68, contrast 0.09, paper 0.64, area 0.58) (0.069 0.090, 0.829 0.119, 0.842 0.841, 0.072 0.882)
+    lines score 0.57 (edges 0.55, contrast 0.04, paper 0.62, area 0.66) (0.069 0.105, 0.875 0.090, 0.774 1.006, 0.072 0.942)
+    lines (mixed light) score 0.56 (edges 0.65, contrast 0.09, paper 0.65, area 0.57) (0.059 0.128, 0.829 0.084, 0.842 0.841, 0.095 0.881)
+11:49:29.212 holding: 40 candidate(s) in 75.7 ms
+    28 lines, 141 pairs, 40 quads
+    lines (mixed light) score 0.67 (edges 0.77, contrast 0.13, paper 0.67, area 0.59) (0.016 0.098, 0.786 0.116, 0.788 0.849, 0.017 0.909)
+    lines (mixed light) score 0.65 (edges 0.75, contrast 0.12, paper 0.67, area 0.59) (0.003 0.101, 0.779 0.111, 0.797 0.844, 0.041 0.908)
+    lines (mixed light) score 0.60 (edges 0.71, contrast 0.04, paper 0.66, area 0.57) (0.016 0.101, 0.776 0.111, 0.740 0.848, 0.016 0.910)
+    lines (mixed light) score 0.60 (edges 0.71, contrast 0.04, paper 0.66, area 0.57) (0.003 0.101, 0.776 0.111, 0.740 0.848, 0.041 0.908)
+    lines (mixed light) score 0.59 (edges 0.67, contrast 0.12, paper 0.67, area 0.60) (0.016 0.101, 0.748 0.111, 0.832 0.841, 0.016 0.910)
+11:49:29.479 stats: camera 59.3 fps, analyzed 6.7 fps, convert 51.3 ms, detect 91.8 ms
+11:49:30.314 holding: 36 candidate(s) in 69.2 ms
+    28 lines, 140 pairs, 40 quads
+    lines (mixed light) score 0.64 (edges 0.75, contrast 0.10, paper 0.68, area 0.59) (0.043 0.102, 0.816 0.115, 0.819 0.851, 0.069 0.903)
+    lines (mixed light) score 0.64 (edges 0.74, contrast 0.11, paper 0.68, area 0.57) (0.039 0.143, 0.810 0.104, 0.827 0.846, 0.075 0.904)
+    lines (mixed light) score 0.63 (edges 0.72, contrast 0.10, paper 0.68, area 0.59) (0.008 0.105, 0.810 0.110, 0.827 0.846, 0.092 0.903)
+    lines (mixed light) score 0.61 (edges 0.69, contrast 0.11, paper 0.68, area 0.58) (0.012 0.145, 0.810 0.104, 0.827 0.846, 0.092 0.903)
+    lines (mixed light) score 0.58 (edges 0.70, contrast 0.14, paper 0.70, area 0.27) (0.512 0.131, 0.810 0.110, 0.827 0.860, 0.399 0.874)
+11:49:31.398 holding: 34 candidate(s) in 102.3 ms
+    28 lines, 145 pairs, 40 quads
+    lines (mixed light) score 0.63 (edges 0.73, contrast 0.10, paper 0.68, area 0.58) (0.046 0.104, 0.825 0.114, 0.830 0.850, 0.099 0.899)
+    lines (mixed light) score 0.63 (edges 0.73, contrast 0.10, paper 0.68, area 0.58) (0.053 0.108, 0.819 0.110, 0.839 0.844, 0.085 0.901)
+    lines (mixed light) score 0.61 (edges 0.72, contrast 0.02, paper 0.67, area 0.56) (0.053 0.108, 0.817 0.110, 0.779 0.848, 0.085 0.901)
+    lines (mixed light) score 0.61 (edges 0.71, contrast 0.02, paper 0.67, area 0.56) (0.043 0.108, 0.817 0.110, 0.779 0.848, 0.099 0.900)
+    lines (mixed light) score 0.60 (edges 0.67, contrast 0.10, paper 0.68, area 0.58) (0.043 0.108, 0.842 0.110, 0.823 0.845, 0.099 0.900)
+11:49:32.495 holding: 39 candidate(s) in 91.5 ms
+    28 lines, 140 pairs, 40 quads
+    lines (mixed light) score 0.65 (edges 0.77, contrast 0.10, paper 0.68, area 0.59) (0.075 0.094, 0.836 0.106, 0.837 0.844, 0.068 0.891)
+    lines (mixed light) score 0.63 (edges 0.74, contrast 0.10, paper 0.68, area 0.58) (0.056 0.097, 0.831 0.102, 0.844 0.837, 0.106 0.890)
+    lines (mixed light) score 0.62 (edges 0.72, contrast 0.10, paper 0.68, area 0.58) (0.021 0.097, 0.831 0.102, 0.844 0.837, 0.127 0.888)
+    lines (mixed light) score 0.61 (edges 0.72, contrast 0.10, paper 0.68, area 0.58) (0.056 0.097, 0.831 0.102, 0.844 0.851, 0.105 0.873)
+    lines (mixed light) score 0.60 (edges 0.69, contrast 0.10, paper 0.68, area 0.58) (0.021 0.097, 0.831 0.102, 0.844 0.851, 0.125 0.872)
+11:49:32.495 stats: camera 42.8 fps, analyzed 7.6 fps, convert 42.3 ms, detect 84.2 ms
+11:49:33.528 holding: 39 candidate(s) in 66.4 ms
+    28 lines, 144 pairs, 40 quads
+    lines (mixed light) score 0.60 (edges 0.70, contrast 0.10, paper 0.69, area 0.59) (0.068 0.093, 0.844 0.064, 0.843 0.828, 0.096 0.872)
+    lines (mixed light) score 0.59 (edges 0.70, contrast 0.10, paper 0.69, area 0.58) (0.065 0.075, 0.839 0.091, 0.850 0.822, 0.100 0.873)
+    lines score 0.59 (edges 0.59, contrast 0.02, paper 0.66, area 0.64) (0.066 0.100, 0.834 0.068, 0.783 0.999, 0.103 0.924)
+    lines score 0.59 (edges 0.55, contrast 0.07, paper 0.67, area 0.67) (0.078 0.099, 0.888 0.065, 0.782 0.999, 0.074 0.921)
+    lines (mixed light) score 0.59 (edges 0.69, contrast 0.10, paper 0.69, area 0.59) (0.079 0.076, 0.839 0.091, 0.850 0.822, 0.074 0.875)
+11:49:33.654 → capturing: 35 candidate(s) in 66.8 ms
+    28 lines, 142 pairs, 40 quads
+    lines (mixed light) score 0.66 (edges 0.79, contrast 0.09, paper 0.69, area 0.58) (0.064 0.077, 0.846 0.086, 0.845 0.828, 0.109 0.871)
+    lines (mixed light) score 0.64 (edges 0.76, contrast 0.10, paper 0.69, area 0.58) (0.066 0.082, 0.840 0.080, 0.852 0.822, 0.103 0.873)
+    lines (mixed light) score 0.62 (edges 0.74, contrast 0.10, paper 0.69, area 0.59) (0.096 0.081, 0.855 0.080, 0.843 0.822, 0.077 0.875)
+    lines (mixed light) score 0.61 (edges 0.70, contrast 0.10, paper 0.69, area 0.58) (0.096 0.081, 0.840 0.080, 0.852 0.822, 0.077 0.875)
+    lines score 0.61 (edges 0.69, contrast 0.21, paper 0.77, area 0.13) (0.715 -0.004, 0.856 0.036, 0.843 0.837, 0.672 0.841)
+11:49:33.660 burst frame 1: sharpness 1454.1
+11:49:33.802 burst frame 2: sharpness 1474.3
+11:49:34.076 burst frame 3: sharpness 1558.0
+11:49:34.213 → done: 39 candidate(s) in 83.2 ms
+    28 lines, 136 pairs, 40 quads
+    lines score 0.68 (edges 0.74, contrast 0.19, paper 0.80, area 0.10) (0.694 0.086, 0.855 0.069, 0.851 0.835, 0.749 0.843)
+    lines score 0.64 (edges 0.73, contrast 0.12, paper 0.78, area 0.09) (0.691 0.079, 0.812 0.073, 0.870 0.839, 0.750 0.842)
+    lines score 0.62 (edges 0.65, contrast 0.01, paper 0.66, area 0.56) (0.075 0.073, 0.690 0.074, 0.763 1.007, 0.112 0.926)
+    lines (mixed light) score 0.62 (edges 0.71, contrast 0.10, paper 0.69, area 0.60) (0.085 0.073, 0.849 0.074, 0.859 0.824, 0.075 0.878)
+    lines (mixed light) score 0.61 (edges 0.73, contrast 0.02, paper 0.68, area 0.49) (0.085 0.110, 0.691 0.079, 0.749 0.831, 0.075 0.878)
+11:49:34.606 refinement too far off ((0.120 0.501, 0.857 0.517, 0.843 0.831, 0.136 0.874)), kept the burst's sheet
+11:49:34.606 chosen: 1920 of 2560 frame(s), sharpness 1558.0, automatic, sheet found (0.062 0.073, 0.852 0.082, 0.849 0.831, 0.113 0.874)
+11:49:34.606 burst of 3 frame(s)
+11:49:34.826 flattened to 1489x2106 in 113.3 ms (sheet's width : height from the perspective 0.743, A4 0.707)
+11:49:40.162 reported
+11:49:40.938 camera stopped
+11:49:40.991 scanner closed
